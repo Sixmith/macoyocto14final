@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# macoyocto14
+#
+
+projectname: macoyocto14
+vendorid: com.macoy
+mainmodule: com.macoy.macoyocto14
